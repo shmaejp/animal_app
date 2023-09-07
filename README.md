@@ -61,7 +61,7 @@
 <a href="https://github.com/shmaejp" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.linkedin.com/in/%E6%99%8B%E5%BC%A5-%E5%89%8D%E7%94%B0-49231b186/" target="_blank">
+<a href="https://www.linkedin.com/in/%E6%99%8B%E5%BC%A5-%E5%89%8D%E7%94%B0-49231b186/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/shmaejp" target="_blank">
